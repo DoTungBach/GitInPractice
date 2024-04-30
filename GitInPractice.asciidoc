@@ -1,0 +1,8 @@
+= Git In Practice
+The hotly anticipated sequel to Git Through Praxis.
+
+[00:05] Opening joke.
+
+[00:10] Decide if need to comment on public's reaction. -- Suggestion: Wait for reaction longer? 
+
+
